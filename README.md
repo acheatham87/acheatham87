@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://sdk.bitmoji.com/me/sticker/V5j0WdmamtXVZHTNWMYmpCATyVeig0bGqzyNqTVZDdfNiNttvFfUVQ/20054902.png?p=dD1zO2w9ZW4.v1&size=thumbnail" width="100"/>
+  <img src="https://sdk.bitmoji.com/me/sticker/V5j0WdmamtXVZHTNWMYmpCATyVeig0bGqzyNqTVZDdfNiNttvFfUVQ/20054902.png?p=dD1zO2w9ZW4.v1&size=thumbnail" width="200"/>
 </div>
 <div id="viewCounter" align="center">
   <img src="https://komarev.com/ghpvc/?username=acheatham87&style=flat-square&color=blue" alt=""/>
