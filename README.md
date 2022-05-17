@@ -6,6 +6,7 @@
 </div>
 
 <br />
+<br />
 
 <div id="badges" align="center">
   <a href="linkedin.com/in/andrewcheatham87/">
@@ -13,6 +14,7 @@
   </a>
 </div>
 
+<br />
 <br />
 
 <div id="languages" align="center">
@@ -24,13 +26,18 @@
 </div>
 
 <br />
+<br />
 
 <div id="stats" align="center">  
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=acheatham87&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=acheatham87&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acheatham87&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acheatham87&layout=compact&theme=vision-friendly-dark)](https://github.com/acheatham/github-readme-stats)
+  
+  <br />
 
-![Andrews's GitHub stats](https://github-readme-stats.vercel.app/api?username=acheatham87&show_icons=true&theme=radical)
+  ![Andrews's GitHub stats](https://github-readme-stats.vercel.app/api?username=acheatham87&show_icons=true&theme=radical)
     
 </div>
